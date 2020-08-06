@@ -9,9 +9,9 @@
 
 ### Aulas
 
-- Rota para criar uma Aula.
-- Listar aulas.
-    - Filtrar por Matéria, dia da semana e horários.
+[x] Rota para criar uma Aula.
+[x] Listar aulas.
+    [x] Filtrar por Matéria, dia da semana e horários.
 
 ## Tecnologias 
 
@@ -22,4 +22,4 @@
 ### Banco de dados
 
 - Knex
-- SQL Lite
+- SQLite
